@@ -18,8 +18,6 @@ document.addEventListener('DOMContentLoaded', (e)=> {
 
 })
 
-
-
 document.onreadystatechange = () => {
     switch (document.readyState) {
         case "loading":
